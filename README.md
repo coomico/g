@@ -1,2 +1,2 @@
-# g
-Bahasa G
+# Bahasa G
+live coomi.codes/g
