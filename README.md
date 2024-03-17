@@ -1,2 +1,2 @@
 # Bahasa G
-live coomi.codes/g
+live https://coomi.codes/g
